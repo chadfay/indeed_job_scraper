@@ -1,1 +1,1 @@
-# indeed_job_scaper
+# indeed_job_scraper
